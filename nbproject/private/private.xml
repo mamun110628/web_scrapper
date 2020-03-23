@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>resources/views/news/news_list.blade.php</url>
+            <bookmark id="1">
+                <name/>
+                <line>91</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/xamp2019/htdocs/web_scrapper/routes/web.php</file>
+            <file>file:/F:/xamp2019/htdocs/web_scrapper/resources/views/news/news_list.blade.php</file>
+            <file>file:/F:/xamp2019/htdocs/web_scrapper/config/app.php</file>
+            <file>file:/F:/xamp2019/htdocs/web_scrapper/app/Http/Controllers/IndexController.php</file>
+            <file>file:/F:/xamp2019/htdocs/web_scrapper/app/Http/Controllers/NewspaperController.php</file>
+        </group>
+    </open-files>
+</project-private>
